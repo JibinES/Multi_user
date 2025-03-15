@@ -1,0 +1,27 @@
+# Django and DRF
+django
+djangorestframework
+django-cors-headers
+psycopg2-binary
+python-dotenv
+pyjwt
+djangorestframework-simplejwt
+drf-nested-routers
+
+# PDF Processing
+PyPDF2
+
+# LangChain + Vector DBs
+langchain
+langchain_community
+faiss-cpu  # FAISS vector database
+
+# AI Models and Embeddings
+openai
+
+# API Handling
+python-multipart
+drf-yasg  # API documentation (Swagger)
+
+# Image Handling (Fixes ImageField Error)
+Pillow
